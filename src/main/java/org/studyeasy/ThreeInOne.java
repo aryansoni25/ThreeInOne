@@ -58,7 +58,7 @@ public class ThreeInOne {
 
     public int peek(int stackNum){
         if(isEmpty(stackNum)){
-            System.out.println("The Stack id Empty!!");
+            System.out.println("The Stack id Empty!! ");
             return -1;
         }else{
             return values[indexOfTop(stackNum)];
