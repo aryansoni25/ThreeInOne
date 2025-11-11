@@ -45,7 +45,7 @@ public class ThreeInOne {
 
     public int pop(int stackNum){
         if(isEmpty(stackNum)){
-            System.out.println("The Stack id Empty!!");
+            System.out.println("The Stack id Empty!! ");
             return -1;
         }else{
             int topOfIndex=indexOfTop(stackNum);
