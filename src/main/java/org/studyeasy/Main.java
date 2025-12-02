@@ -13,6 +13,6 @@ public class Main {
         TIO.push(2,8);
         System.out.println(TIO.peek(0));
         System.out.println(TIO.peek(1));
-        System.out.println(TIO.peek(2));
+
     }
 }
