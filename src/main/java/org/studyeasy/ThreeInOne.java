@@ -20,6 +20,7 @@ public class ThreeInOne {
         }
     }
 
+
     public boolean isEmpty(int stackNum){
         if(sizes[stackNum]==0){
             return true;

@@ -14,6 +14,5 @@ public class Main {
         System.out.println(TIO.peek(0));
         System.out.println(TIO.peek(1));
         System.out.println(TIO.peek(2));
-
     }
 }
